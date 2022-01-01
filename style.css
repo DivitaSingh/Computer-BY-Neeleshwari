@@ -1,0 +1,30 @@
+/* h1 {
+  color: purple;
+} */
+/* a{
+  color: purple;
+} */
+.grid {
+  display :flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+#bodyimg {
+  background-color: #f80;
+  background-image: url("https://wallpaperaccess.com/full/1698004.jpg");
+}
+p,h2 {
+  text-align: center;
+}
+.menu{
+  display:flex;
+  justify-content: space-between;
+  background-color: black;
+  font-size: 20px;
+  font-family: sans-serif;
+  font-weight: 400;
+  color: white;
+}
+body{
+  background-color: whitesmoke;
+}
